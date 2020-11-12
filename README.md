@@ -1,11 +1,13 @@
 # projetCloudSytemeWeb
 Le projet pour le module Cloud &amp; Système Web
 <h1>Rendu & Critères de notation</h1>
-Afin de pouvoir être noté, chaque apprenant devra envoyer par email les 3 éléments suivants:
-- L'adresse du dépôt de code sur GitHub (warning: "git push" le code)
-- La valeur du champs DNS IPv4 de l'instance AWS 
-- L'URL pour accéder à la page 
-
+<p>Afin de pouvoir être noté, chaque apprenant devra envoyer par email les 3 éléments suivants:</p>
+<ul>
+  <li>- L'adresse du dépôt de code sur GitHub (warning: "git push" le code)</li>
+  <li>- La valeur du champs DNS IPv4 de l'instance AWS</li>
+  <li>- L'URL pour accéder à la page</li> 
+</ul>
+<hr>
 <h2>Critères de notation:</h2>
 <ul>
   <li><p>12 pts: Page Web</p>
